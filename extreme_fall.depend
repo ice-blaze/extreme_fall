@@ -1,0 +1,543 @@
+# depslib dependency file v1.0
+1334930240 source:c:\users\etienne\desktop\sdl projects\extreme_fall\main.cpp
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<sstream>
+	<SDL.h>
+	"Fonct_Main.h"
+	"Classe_Timer.h"
+	"Classe_Char.h"
+	"Missile.hpp"
+
+1320438087 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl.h
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1255800464 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1255800450 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_platform.h
+
+1255800450 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\begin_code.h
+
+1255800450 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\close_code.h
+
+1255800449 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1255800450 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_keysym.h
+
+1255800450 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800449 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1255800450 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255800450 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1334863632 c:\users\etienne\desktop\sdl projects\extreme_fall\fonct_main.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+
+1314090265 c:\users\etienne\desktop\sdl projects\sdl-1.2.14\mingw\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1334912842 source:c:\users\etienne\desktop\sdl projects\extreme_fall\fonct_main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<cstdlib>
+	<ctime>
+	"Fonct_Main.h"
+
+1334861404 c:\users\etienne\desktop\sdl projects\extreme_fall\classe_timer.h
+
+1334861382 source:c:\users\etienne\desktop\sdl projects\extreme_fall\classe_timer.cpp
+	"Classe_Timer.h"
+	<SDL.h>
+
+1334912693 c:\users\etienne\desktop\sdl projects\extreme_fall\classe_char.h
+	<sdl.h>
+	<string>
+	"constante.h"
+	"Fonct_Main.h"
+	"Classe_Timer.h"
+
+1332235902 c:\users\etienne\desktop\sdl projects\extreme_fall\constante.h
+
+1334645597 source:c:\users\etienne\desktop\sdl projects\extreme_fall\classe_char.cpp
+	"Classe_Char.h"
+	<iostream>
+
+1334912349 source:c:\users\etienne\desktop\sdl projects\extreme_fall\missile.cpp
+	"Missile.hpp"
+
+1334912891 c:\users\etienne\desktop\sdl projects\extreme_fall\missile.hpp
+	<sdl.h>
+	<string>
+	"constante.h"
+	"Fonct_Main.h"
+	"Classe_Timer.h"
+
+1334857782 source:d:\sdl projects\extreme_fall\classe_timer.cpp
+	"Classe_Timer.h"
+	<SDL.h>
+
+1334857804 d:\sdl projects\extreme_fall\classe_timer.h
+
+1353841959 source:d:\sdl projects\extreme_fall\fonct_main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<cstdlib>
+	<ctime>
+	"Fonct_Main.h"
+
+1353070313 d:\sdl projects\extreme_fall\fonct_main.h
+	<stdlib.h>
+	<stdio.h>
+	<sdl/SDL.h>
+	<SDL_image.h>
+	<string>
+
+1353944487 source:d:\sdl projects\extreme_fall\missile.cpp
+	"Missile.hpp"
+
+1353944465 d:\sdl projects\extreme_fall\missile.hpp
+	<sdl.h>
+	<string>
+	"constante.h"
+	"Fonct_Main.h"
+	"Classe_Timer.h"
+
+1332232302 d:\sdl projects\extreme_fall\constante.h
+
+1353945527 source:d:\sdl projects\extreme_fall\main.cpp
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<sstream>
+	<vector>
+	<stdio.h>
+	<sdl/SDL.h>
+	"Fonct_Main.h"
+	"Classe_Timer.h"
+	"Char.h"
+	"Missile.hpp"
+
+1353774251 d:\sdl projects\extreme_fall\classe_char.h
+	<sdl.h>
+	<string>
+	"constante.h"
+	"Fonct_Main.h"
+	"Classe_Timer.h"
+
+1353775891 source:d:\sdl projects\extreme_fall\classe_char.cpp
+	"Classe_Char.h"
+	<iostream>
+
+1320434487 d:\sdl projects\sdl-1.2.14\mingw\include\sdl.h
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 d:\sdl projects\sdl-1.2.14\mingw\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1255796864 d:\sdl projects\sdl-1.2.14\mingw\include\sdl_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1255796850 d:\sdl projects\sdl-1.2.14\mingw\include\sdl_platform.h
+
+1255796850 d:\sdl projects\sdl-1.2.14\mingw\include\begin_code.h
+
+1255796850 d:\sdl projects\sdl-1.2.14\mingw\include\close_code.h
+
+1255796849 d:\sdl projects\sdl-1.2.14\mingw\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 d:\sdl projects\sdl-1.2.14\mingw\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 d:\sdl projects\sdl-1.2.14\mingw\include\sdl_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 d:\sdl projects\sdl-1.2.14\mingw\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 d:\sdl projects\sdl-1.2.14\mingw\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1255796850 d:\sdl projects\sdl-1.2.14\mingw\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 d:\sdl projects\sdl-1.2.14\mingw\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 d:\sdl projects\sdl-1.2.14\mingw\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 d:\sdl projects\sdl-1.2.14\mingw\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 d:\sdl projects\sdl-1.2.14\mingw\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 d:\sdl projects\sdl-1.2.14\mingw\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 d:\sdl projects\sdl-1.2.14\mingw\include\sdl_keysym.h
+
+1255796850 d:\sdl projects\sdl-1.2.14\mingw\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 d:\sdl projects\sdl-1.2.14\mingw\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796849 d:\sdl projects\sdl-1.2.14\mingw\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 d:\sdl projects\sdl-1.2.14\mingw\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1255796850 d:\sdl projects\sdl-1.2.14\mingw\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 d:\sdl projects\sdl-1.2.14\mingw\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1255796850 d:\sdl projects\sdl-1.2.14\mingw\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1314086665 d:\sdl projects\sdl-1.2.14\mingw\include\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1353843006 source:d:\sdl projects\extreme_fall\char.cpp
+	"Char.h"
+	<iostream>
+
+1354691254 d:\sdl projects\extreme_fall\char.h
+	<sdl.h>
+	<string>
+	"constante.h"
+	"Fonct_Main.h"
+	"Classe_Timer.h"
+
+1334861382 source:d:\git repos\game_stock\extreme_fall\classe_timer.cpp
+	"Classe_Timer.h"
+	<SDL.h>
+
+1334861404 d:\git repos\game_stock\extreme_fall\classe_timer.h
+
+1353845559 source:d:\git repos\game_stock\extreme_fall\fonct_main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	<cstdlib>
+	<ctime>
+	"Fonct_Main.h"
+
+1353073913 d:\git repos\game_stock\extreme_fall\fonct_main.h
+	<stdlib.h>
+	<stdio.h>
+	<sdl/SDL.h>
+	<SDL_image.h>
+	<string>
+
+1353948087 source:d:\git repos\game_stock\extreme_fall\missile.cpp
+	"Missile.hpp"
+
+1353948065 d:\git repos\game_stock\extreme_fall\missile.hpp
+	<sdl.h>
+	<string>
+	"constante.h"
+	"Fonct_Main.h"
+	"Classe_Timer.h"
+
+1332235902 d:\git repos\game_stock\extreme_fall\constante.h
+
+1382557598 source:d:\git repos\game_stock\extreme_fall\main.cpp
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<sstream>
+	<vector>
+	<stdio.h>
+	<sdl/SDL.h>
+	"Fonct_Main.h"
+	"Classe_Timer.h"
+	"Char.h"
+	"Missile.hpp"
+
+1354694854 d:\git repos\game_stock\extreme_fall\char.h
+	<sdl.h>
+	<string>
+	"constante.h"
+	"Fonct_Main.h"
+	"Classe_Timer.h"
+
+1353846606 source:d:\git repos\game_stock\extreme_fall\char.cpp
+	"Char.h"
+	<iostream>
+
